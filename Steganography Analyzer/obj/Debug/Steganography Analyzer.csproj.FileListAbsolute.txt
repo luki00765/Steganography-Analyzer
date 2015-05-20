@@ -1,0 +1,16 @@
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\Steganography Analyzer.exe.config
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\MainWindow.baml
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\App.baml
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\MainWindow.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\App.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer_MarkupCompile.cache
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.g.resources
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography_Analyzer.Properties.Resources.resources
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.csproj.GenerateResource.Cache
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\Steganography Analyzer.exe
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\Steganography Analyzer.pdb
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\MahApps.Metro.dll
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\System.Windows.Interactivity.dll
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\MahApps.Metro.xml
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.exe
+c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.pdb

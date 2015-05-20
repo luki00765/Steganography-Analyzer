@@ -1,0 +1,17 @@
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\Steganography Analyzer.exe.config
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\Steganography Analyzer.exe
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\Steganography Analyzer.pdb
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\MahApps.Metro.dll
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Release\MahApps.Metro.xml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\MainWindow.baml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\App.baml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\MainWindow.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\App.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer_MarkupCompile.cache
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer.g.resources
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography_Analyzer.Properties.Resources.resources
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer.csproj.GenerateResource.Cache
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer.exe
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Release\Steganography Analyzer.pdb
