@@ -28,10 +28,10 @@ For more details see at this link: [Steganography](https://github.com/luki00765/
 
 ## Screenshots:
 
-![Image](Screenshots/)
+![Image](Screenshots/1.jpg)
 
 ----
-![Image](Screenshots/)
+![Image](Screenshots/2.jpg)
 
 ----
 
@@ -42,4 +42,4 @@ OS: Windows Vista / 7 / 8 / 8.1 / 10
 Microsoft .NET Framework 4.5 - [download here] (https://www.microsoft.com/pl-pl/download/details.aspx?id=30653)
 
 ## Download App:
-[Download link] (http://1drv.ms/1DUQaiY)
+[Download link] ()
