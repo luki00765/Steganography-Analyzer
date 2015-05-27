@@ -14,3 +14,6 @@ c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steg
 c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\bin\Debug\MahApps.Metro.xml
 c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.exe
 c:\users\lukii\documents\visual studio 2013\Projects\Steganography Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.pdb
+C:\Users\Lukii\Documents\GitHub\Steganography-Analyzer\Steganography Analyzer\bin\Debug\Steganography Analyzer.exe.config
+C:\Users\Lukii\Documents\GitHub\Steganography-Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.exe
+C:\Users\Lukii\Documents\GitHub\Steganography-Analyzer\Steganography Analyzer\obj\Debug\Steganography Analyzer.pdb
