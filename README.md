@@ -14,7 +14,7 @@ on the compared images. Red pixels represent areas in which it was hidden implic
 ## Instructions:
 ```
 To make a comparison, you should:
-1) Load Original Image and Target Image. Click Image > Open and select the image that you are interested
+1) Load Original Image and Target Image. Click Image > Open and select the image
 2) Click on the button Compare, to get the results of comparison
 3) You can Save the new generated image or clear results
 ```
