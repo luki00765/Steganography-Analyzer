@@ -20,10 +20,11 @@ To make a comparison, you should:
 ```
 
 ## Program "Steganography" to hide a message in the image
-```
+
 Some time ago I create a program which you can hide a message in the image using the LSB method. 
-For more details see at this link: https://github.com/luki00765/Steganography
-```
+For more details see at this link: [Steganography](https://github.com/luki00765/Steganography)
+
+
 
 ## Screenshots:
 
